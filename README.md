@@ -8,7 +8,7 @@ This repository contains Python implementations of various classical cryptograph
 2. **Monoalphabetic Cipher** - A substitution cipher where each letter in the plaintext is replaced with a corresponding letter from a fixed shuffled alphabet.
 3. **Playfair Cipher** - A digraph substitution cipher that encrypts pairs of letters using a 5x5 matrix.
 4. **Hill Cipher** - A polygraphic substitution cipher based on matrix multiplication.
-
+5.**Vigenère Cipher** - A polyalphabetic substitution cipher that encrypts text using a repeating keyword-based shifting technique.
 ## Prerequisites
 
 Ensure you have Python installed on your system. You can check by running:
