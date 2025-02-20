@@ -53,4 +53,3 @@ Each cipher program is a standalone script. Follow these steps to run them:
 ## Contributions
 
 Feel free to contribute by submitting issues or pull requests to improve the ciphers or add new features.
-
