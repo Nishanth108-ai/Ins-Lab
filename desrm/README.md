@@ -21,19 +21,23 @@ The provided text is converted into its binary equivalent.
 Input: "Hello"
 Binary: 0100100001100101011011000110110001101111
 
-**##🔐 Applications**
-Secure Communication: Encrypts messages and emails.
-Data Protection: Secures sensitive data.
-Cryptographic Key Generation: Assists in encryption algorithms.
-Authentication Systems: Provides secure access keys.
-Blockchain & Digital Signatures: Strengthens transaction security.
-**##⚡ Future Improvements**
-Implementing a decryption mechanism.
-Enhancing key generation using cryptographic techniques.
-Developing a graphical interface for ease of use.
-**##🤝 Contributions**
-Feedback and improvements are welcome! Feel free to open an issue or submit a pull request.
 
-**##👨‍💻 Author**
-🔗 GitHub: @Ragha8951
-📧 Email: ragha8951@gmail.com
+## 🔐 Applications  
+- **Secure Communication:** Encrypts messages and emails.  
+- **Data Protection:** Secures sensitive data.  
+- **Cryptographic Key Generation:** Assists in encryption algorithms.  
+- **Authentication Systems:** Provides secure access keys.  
+- **Blockchain & Digital Signatures:** Strengthens transaction security.  
+
+## ⚡Future Improvements  
+- Implementing a decryption mechanism.  
+- Enhancing key generation using cryptographic techniques.  
+- Developing a graphical interface for ease of use.  
+
+## 🤝 Contributions  
+Feedback and improvements are welcome! Feel free to open an issue or submit a pull request.  
+
+## 👨‍💻 Author  
+🔗 **GitHub:** [github.com/Nishanth108-ai](https://github.com/Nishanth108-ai)  
+📧 **Email:** [nishanthshetty32@gmail.com](mailto:nishanthshetty32@gmail.com)  
+
