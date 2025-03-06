@@ -1,7 +1,7 @@
 # DES Encryption Algorithm  
 
 
- ## 🚀 Features  
+ ## 💻 Features  
 - Converts a text input into an 8-bit binary format.  
 - Splits the binary representation into two segments.  
 - Applies bitwise left shifts for transformation.  
